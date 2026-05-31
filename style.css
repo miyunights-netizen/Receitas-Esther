@@ -24,3 +24,23 @@ img {
     border-radius: 12px;
     margin-bottom: 40px;
 }
+
+h1, h2 {
+    font-family: 'Lora', serif;
+}
+
+h1 {
+    font-size 40px;
+    color: #312e2c;
+    line-height: 100%;
+    margin-bottom: 24px;
+}
+
+p, li, th, td {
+    font-family:'Outfit', sans-serif;}
+
+p {
+  color: #5f564d;
+  line-height: 150%;
+  margin-bottom: 32px;  
+}
